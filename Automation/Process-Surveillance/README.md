@@ -104,7 +104,7 @@ python --version
 Open Command Prompt inside the project folder and run:
 
 ```bash
-pip install psutil schedule
+pip install -r requirements.txt
 ```
 
 ### 3. Run the Program
