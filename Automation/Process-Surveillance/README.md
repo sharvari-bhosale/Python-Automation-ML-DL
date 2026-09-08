@@ -49,19 +49,16 @@ The project also uses Python's built-in modules such as `sys`, `os`, `time`, `da
 ```text
 Process-Surveillance/
 │
-├── ProcessSurveillance.py
+├── PlatformSurvilenceProcessEmail.py
 ├── README.md
 ├── requirements.txt
 │
-├── screenshots/
-│   ├── 01_Command_Execution.png
-│   ├── 02_Command_Execution.png
-│   ├── 03_System_Report.png
-│   ├── 04_Process_Information.png
-│   └── 05_Email.png
-│
-└── logs/
-    └── .gitkeep
+└── Screenshots/
+    ├── 01_Command_Execution.png
+    ├── 02_Command_Execution.png
+    ├── 03_System_Report.png
+    ├── 04_Process_Information.png
+    └── 05_Email.png
 ```
 
 ## Functions
