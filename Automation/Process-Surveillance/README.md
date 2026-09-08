@@ -54,11 +54,11 @@ Process-Surveillance/
 ├── requirements.txt
 │
 ├── screenshots/
-│   ├── process_scan.png
-│   ├── cpu_process.png
-│   ├── ram_process.png
-│   ├── log_file.png
-│   └── email.png
+│   ├── 01_Command_Execution.png
+│   ├── 02_Command_Execution.png
+│   ├── 03_System_Report.png
+│   ├── 04_Process_Information.png
+│   └── 05_Email.png
 │
 └── logs/
     └── .gitkeep
