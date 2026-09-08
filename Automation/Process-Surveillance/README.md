@@ -204,9 +204,6 @@ Press Ctrl + C to abort the automation script
 * Add process search by name
 * Add process search by PID
 * Add process status statistics
-* Add battery monitoring
-* Add disk usage monitoring
-* Add network usage monitoring
 * Store monitoring data in a database
 * Add configurable email settings
 
