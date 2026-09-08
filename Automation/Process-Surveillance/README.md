@@ -112,13 +112,13 @@ pip install psutil schedule
 The program accepts two command-line arguments:
 
 ```text
-python ProcessSurveillance.py Time_Interval Folder_Name
+python PlatformSurvilenceProcessEmail.py Time_Interval Folder_Name
 ```
 
 Example:
 
 ```bash
-python ProcessSurveillance.py 1 Logs
+python PlatformSurvilenceProcessEmail.py 1 Logs
 ```
 
 Here:
@@ -129,25 +129,25 @@ Here:
 ### 4. Display Help
 
 ```bash
-python ProcessSurveillance.py --h
+python PlatformSurvilenceProcessEmail.py --h
 ```
 
 or
 
 ```bash
-python ProcessSurveillance.py --H
+python PlatformSurvilenceProcessEmail.py --H
 ```
 
 ### 5. Display Usage
 
 ```bash
-python ProcessSurveillance.py --u
+python PlatformSurvilenceProcessEmail.py --u
 ```
 
 or
 
 ```bash
-python ProcessSurveillance.py --U
+python PlatformSurvilenceProcessEmail.py --U
 ```
 
 ## Log File
@@ -173,7 +173,7 @@ For security, email credentials should not be stored directly in the source code
 ## Sample Command
 
 ```bash
-python ProcessSurveillance.py 1 Logs
+python PlatformSurvilenceProcessEmail.py 1 Logs
 ```
 
 Sample execution:
